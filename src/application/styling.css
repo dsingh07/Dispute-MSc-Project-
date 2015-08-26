@@ -1,0 +1,18 @@
+/*controlStyle.css */
+ 
+.separator{
+    -fx-background-color: #006994;
+    -fx-background-radius: 2;
+}
+
+.root{
+    -fx-background-color: #FFFFFF;
+}
+
+.text-area {
+    -fx-font: 22px "Serif";
+}
+
+.text-area .scroll-pane .content{   
+    -fx-background-color: white;
+}
