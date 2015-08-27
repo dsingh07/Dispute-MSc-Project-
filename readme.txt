@@ -2,12 +2,18 @@
 DISPUTE README - INSTALLATION AND USER MANUAL
 **************************************************
 
+FOLDER STRUCTURE
+**************************************************
+- The java files are all found in the src/application folder. This includes all styling files
+- The python programs are found in the Initial Python Protypes folder
+- The two files necessary for execution, Dispute.jar and icon.png, are found in the root directory
+
 INSTALLATION
 **************************************************
 The two files that are essential in order to run Dispute are:
 - The application file "Dispute.jar"
 - The logo file "icon.png" (not essential but the logo will not display in certain situations)
-- These two files must be stored in the same folder directory
+- These two files must be in the same folder directory when running Dispute from the executable file
 
 USER MANUAL
 **************************************************
